@@ -1,4 +1,4 @@
 # demo-repo
 First Demo Repository.
 <br>
-Date - 27/05/2025
+Date - 27 May 2025
